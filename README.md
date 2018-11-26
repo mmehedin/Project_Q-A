@@ -18,6 +18,6 @@ git clone https://github.com/mmehedin/Project_Q-A
 
 Download glove6B.zip from https://nlp.stanford.edu/projects/glove/
 
-
+3. Jupyter notebook q&a_project_final
 
 
