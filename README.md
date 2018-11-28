@@ -26,7 +26,7 @@ https://github.com/facebookresearch/InferSent
 
 the files about GloVe and infersent.allnli.pickle are needed
 
-5. Jupyter notebook q&a_project_final and q&a_project_final_tree
+5. Jupyter notebook q&a_project_final_deep and q&a_project_final_tree
 
 6. Embedding data is generate using the embedder_sentence file
 
