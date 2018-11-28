@@ -18,6 +18,16 @@ git clone https://github.com/mmehedin/Project_Q-A
 
 Download glove6B.zip from https://nlp.stanford.edu/projects/glove/
 
-3. Jupyter notebook q&a_project_final
+3. Install spacy:
+pip install -u spacy & python -m spacy download en
+
+4. Install Infersent from Facebook via github as described here:
+https://github.com/facebookresearch/InferSent
+
+the files about GloVe and infersent.allnli.pickle are needed
+
+5. Jupyter notebook q&a_project_final and q&a_project_final_tree
+
+6. Embedding data is generate using the embedder_sentence file
 
 
